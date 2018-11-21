@@ -22,7 +22,8 @@ h1 { text-align: center }
     width: 800px
 }
 #details {
-  width: 800px;
+  width: 25%;
+  
   
 }
     
@@ -34,7 +35,7 @@ body {
   margin: 100;
 }
 
-.featured-property {
+
     
 }
 
