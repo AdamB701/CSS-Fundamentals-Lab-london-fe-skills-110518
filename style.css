@@ -23,7 +23,8 @@ h1 { text-align: center }
 }
 #details {
   width: 25%;
-  
+  background-color: purple;
+  text-align: center;
   
 }
     
