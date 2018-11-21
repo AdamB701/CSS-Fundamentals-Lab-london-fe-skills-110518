@@ -10,9 +10,9 @@ h1 { text-align: center }
     width: 50%;
 }
   
-.figcap {
+#figcap {
     font-size: 400px; 
-    text-align: : auto;
+    text-align: : center;
   
 }
 
